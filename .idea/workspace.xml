@@ -17,6 +17,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kane\Projects\ATMSimulator" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,11 +34,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599856312752</updated>
-      <workItem from="1599856316883" duration="316000" />
+      <workItem from="1599856316883" duration="1421000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1599856682464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599856682464" />
   </component>
 </project>
