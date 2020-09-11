@@ -1,7 +1,6 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-/nat20-ui/node_modules
 
 ### STS ###
 .apt_generated
