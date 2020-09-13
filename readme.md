@@ -32,6 +32,6 @@ The goal of this project is to create an ATM simulator using Java. The simulator
 - While the application is running, it should maintain the state of the various accounts and users. I.e., if a user logs out and another logs in, it should be able to fetch whatever the user's information was including their accounts balances
 - Invalid user input should not cause the application to unexpectedly fail. I.e., include error handling
 - The ATM should not shut down once a user has performed a transaction. It should stay running until terminated by the developer.
-
+- 70% of lines should be covered by tests
 
 
